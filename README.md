@@ -1,30 +1,19 @@
-# No conversation
+The Ahmtec Hub Portfolio highlights:
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Professional web & app development services
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mianahmar777s-projects/v0-portfolio-website-creation-85)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/HU3545cRz3B)
+Education & online learning opportunities (including Quran tuition for overseas students)
 
-## Overview
+A showcase of our best work and future projects
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Deployment
 
-## Deployment
+The website is live at:
+https://ahmtechub.vercel.app
 
-Your project is live at:
+Tech Stack
 
-**[https://vercel.com/mianahmar777s-projects/v0-portfolio-website-creation-85](https://vercel.com/mianahmar777s-projects/v0-portfolio-website-creation-85)**
+Framework: React 
 
-## Build your app
+Styling: Tailwind CSS
 
-Continue building your app on:
-
-**[https://v0.app/chat/projects/HU3545cRz3B](https://v0.app/chat/projects/HU3545cRz3B)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
